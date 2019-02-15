@@ -23,7 +23,7 @@
     "url": "https://github.com/bitpay/bitcore-message.git"
   },
   "dependencies": {
-    "bitcore-lib": "https://github.com/zcash-hackworks/bitcore-lib-zcash"
+    "bitcore-lib-zcash": "https://github.com/zcash-hackworks/bitcore-lib-zcash"
   },
   "devDependencies": {
     "bitcore-build": "bitpay/bitcore-build",
